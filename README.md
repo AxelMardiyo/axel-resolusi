@@ -1,0 +1,2 @@
+# axel-resolusi
+resolusi kedepannya
